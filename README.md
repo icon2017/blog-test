@@ -16,7 +16,7 @@
 3. 重庆
 4. 可以爬山的地方
    
-我的博客地址：[icon2017](https://github.com/icon2017/blog-test/README.md)
+我的博客地址：[icon2017](https://github.com/icon2017/blog-test/blob/master/README.md)
    
 ```javascript
 var a = hi
